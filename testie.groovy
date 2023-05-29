@@ -1,5 +1,6 @@
-abstract class HelloWorld {
+class HelloWorld {
     public static void main(String[] args) {
-        println("Hello World");
+        def a = '' + "Hello World"
+        println(a);
     }
 }
