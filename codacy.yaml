@@ -1,1 +1,7 @@
-.*groovy
+---
+exclude_paths:
+  - ".bundle/**"
+  - "spec/**/*"
+  - "benchmarks/**/*"
+  - "**.min.js"
+  - "**/tests/**"
