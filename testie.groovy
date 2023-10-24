@@ -7,6 +7,11 @@ class HelloWorld {
         println xAdA.getClass()
         def x_A_f_AA = "Guru99"
         println x_A_f_AA.getClass()
+
+       for (value in []) {
+            println value
+                                    
+        }
     }
     
 }
